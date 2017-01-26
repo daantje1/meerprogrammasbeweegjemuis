@@ -4,9 +4,9 @@ PImage mars;
 
 void setup() {
   size(3000, 3000);
-  alian = loadImage("alian.png");
-  aarde = loadImage("aarde.png");
-    mars = loadImage("mars.png");
+  alian = loadImage("alian.dpavm.png");
+  aarde = loadImage("aarde.dpavm.png");
+    mars = loadImage("mars.dpavm.png");
 }
 
 void draw() {
